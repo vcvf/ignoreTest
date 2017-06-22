@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					E836F1861EFB8F3400751FA8 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = DB95ZYCNMX;
 						ProvisioningStyle = Automatic;
 					};
 					E836F19F1EFB8F3400751FA8 = {
@@ -426,6 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DB95ZYCNMX;
 				INFOPLIST_FILE = ignoreTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.ecook.ignoreTest;
@@ -437,6 +439,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = DB95ZYCNMX;
 				INFOPLIST_FILE = ignoreTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.ecook.ignoreTest;
@@ -509,6 +512,7 @@
 				E836F1B61EFB8F3500751FA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E836F1B71EFB8F3500751FA8 /* Build configuration list for PBXNativeTarget "ignoreTestTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +521,7 @@
 				E836F1B91EFB8F3500751FA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E836F1BA1EFB8F3500751FA8 /* Build configuration list for PBXNativeTarget "ignoreTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +530,7 @@
 				E836F1BC1EFB8F3500751FA8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
